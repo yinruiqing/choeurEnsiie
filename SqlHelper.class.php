@@ -6,8 +6,8 @@
 
 		public $conn;
 		public $dbname="projetwebyin";
-		public $username="ruiqing.yin";
-		public $password="yin19911024";
+		public $username="*****";
+		public $password="*****";
 		public $host="pgsql";
 
 		public function __construct(){
