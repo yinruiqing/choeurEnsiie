@@ -1,0 +1,62 @@
+BODY
+{
+    FONT-SIZE: 11px;
+    COLOR: #ffffff;
+    FONT-FAMILY: Tahoma;
+    BACKGROUND-COLOR: #000000
+}
+TABLE.Top
+{
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-TOP: #000000 1px solid;
+    BORDER-LEFT: #000000 1px solid;
+    BORDER-BOTTOM: #000000 1px
+}
+TABLE.Middle
+{
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-TOP: #000000 1px;
+    BORDER-LEFT: #000000 1px solid;
+    BORDER-BOTTOM: #000000 1px
+}
+TABLE.Bottom
+{
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-TOP: #000000 1px;
+    BORDER-LEFT: #000000 1px solid;
+    BORDER-BOTTOM: #000000 1px solid
+}
+P
+{
+    MARGIN-TOP: 4px;
+    FONT-SIZE: 11px;
+    MARGIN-BOTTOM: 4px;
+    COLOR: #ffffff;
+    FONT-FAMILY: Tahoma
+}
+TABLE
+{
+    FONT-SIZE: 11px;
+    COLOR: #ffffff;
+    FONT-FAMILY: Tahoma
+}
+TD
+{
+    FONT-SIZE: 11px;
+    COLOR: #ffffff;
+    FONT-FAMILY: Tahoma
+}
+TD.Dark
+{
+    BACKGROUND-COLOR: #3f3a36
+}
+TD.Darker
+{
+    BACKGROUND-COLOR: #222222
+}
+TABLE.BottomBar
+{
+    BACKGROUND-POSITION: left top;
+    BACKGROUND-IMAGE: url(images/BottomBarBack.gif);
+    BACKGROUND-REPEAT: repeat-x
+}

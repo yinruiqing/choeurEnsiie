@@ -1,0 +1,211 @@
+body{
+	font-family:'Helvetica Neue',Arial,'Liberation Sans',Freesans,'Hiragino Sans GB',sans-serif;
+	 BACKGROUND-COLOR: #000000
+}
+
+a{
+	color:gray;
+	text-decoration:none;
+
+}
+#head{
+	width:760px;
+	margin:auto;
+	color:white;
+	border-bottom:dashed 1px white ;
+	margin-bottom:5px;
+
+}
+.clear{
+	clear:both;
+}
+#wrapper{
+	width:760px;	
+	margin:auto;
+	margin-top:10px;
+}
+
+.main{
+	width:440px;
+	background-color:white;
+	float:left;
+	margin-right:20px;
+	border-radius:8px;
+	padding: 20px;
+}
+
+.side{
+	width:240px;
+	
+	background-color:white;
+	float:left;
+	border-radius:8px;
+	padding:10px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+#footer{
+	width:960px;
+	padding:10px;
+	border-top:dashed 1px white;
+	margin:auto;
+	margin-top:18px;
+}
+
+.title_logo{
+	float:left;
+}
+
+.navi{
+	float:left;
+}
+
+.navi ul{
+	list-style:none;
+	margin-top:18px;
+}
+
+.navi ul li{
+	display:inline-block;
+	margin-right:20px;
+}
+
+.navi ul li a{
+	color:white;
+	border:solid 1px white;
+	padding:4px;
+	padding-left:10px;
+	padding-right:14px;
+	border-radius:6px;
+	
+}
+
+.item{
+	border-bottom:dashed 1px #ccc;
+	padding-bottom:15px;
+	margin-top:10px;
+}
+.item_img{
+	float:left;
+	width:100px;
+}
+
+.item_img img{
+	width: 80px;
+	height:60px;
+	padding-top:10px;
+}
+
+.item_content{
+	padding-left: 100px;
+}
+
+.item_content h3{
+	font-size: 16px;
+	color: #a5612d;
+	margin:0px;
+}
+
+.item_info{
+	font-size: 12px;
+	font-style: italic;
+	margin: 0px;
+	color:#999
+}
+
+.item_desc{
+	font-size: 14px;
+	margin: 0px;
+	color:gray;
+	margin-top:10px;
+	border-left:solid 1px #ccc;
+	padding-left:10px;
+}
+
+.author_image{
+	width:120px;
+	margin:auto;
+	margin-top:20px;
+}
+.author_image img{
+	width:120px;
+	border:solid 1px #ccc;
+	border-radius: 6px;
+	
+}
+.author_desc{
+	text-align:center;
+	border-radius:6px;
+	background-color:#eee;
+	border:solid 1px #ccc;
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-top:10px;
+	
+}
+.author_desc h4{
+	margin:0px;
+	margin-bottom:10px;
+	
+	
+}
+.author_desc p{
+	margin:0px;
+	font-size:14px;
+	
+}
+
+.top_article h3{
+	font-size:18px;
+	font-style:italic;
+	border:1px dashed #ccc;
+	color:#999;
+}
+
+.top_article ul{
+	list-style:none;
+	margin-left:0px;
+	padding-left:10px;
+}
+
+.top_article ul li{
+	margin-top:10px;
+	color:gray;
+}
+
+.site_info{
+	margin-top: 30px;
+	border-top:solid 1px #ccc;
+}
+
+.site_info p{
+	font-size:14px;
+	color:gray;
+	padding-left:60px;
+	margin:0;
+	margin-top:10px;
+}
+
+.site_about{
+	float:left;
+	color:white;
+	padding-left:30px;
+	
+}
+.site_link{
+	float:right;
+	margin:0px;
+}
+
+.site_link ul{
+	list-style:none;
+}
+
+.site_link ul li {
+	display:inline-block;
+	margin:0px;
+	color:white;
+	padding-right:10px;
+}
+

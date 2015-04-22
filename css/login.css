@@ -1,0 +1,59 @@
+@CHARSET "ISO-8859-1";
+body{
+	font-family:'Helvetica Neue',Arial,'Liberation Sans',Freesans,'Hiragino Sans GB',sans-serif;
+	BACKGROUND-COLOR: black;
+	margin:auto;
+}
+.navi{
+	float:left;
+}
+
+.navi ul{
+	list-style:none;
+	margin-top:18px;
+}
+
+.navi ul li{
+	display:inline-block;
+	margin-right:20px;
+}
+
+.navi ul li a{
+	color:white;
+	border:solid 1px white;
+	padding:4px;
+	padding-left:10px;
+	padding-right:14px;
+	border-radius:6px;
+	
+}
+
+a{
+	color:gray;
+	text-decoration:none;
+
+}
+#head{
+	width:760px;
+	margin:auto;
+	color:white;
+	border-bottom:dashed 1px white ;
+	margin-bottom:5px;
+	padding:4px;
+}
+
+#form{
+	width:360px;
+	margin:auto;
+	margin-bottom:10px;
+	margin-top:60px;
+	BACKGROUND-COLOR:white;
+	border:solid 1px white;
+	font-size:15;
+	border-radius:6px;
+	
+}
+
+h2{
+	margin-left:100px;
+}

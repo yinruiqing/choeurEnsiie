@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+body{
+	font-family:'Helvetica Neue',Arial,'Liberation Sans',Freesans,'Hiragino Sans GB',sans-serif;
+	BACKGROUND-COLOR: black;
+	margin:auto;
+	margin-left:280px;
+	color:white;
+}
+a{
+	color:gray;
+	text-decoration:none;
+	border-radius:6px;
+}
+h1{
+	color:white;
+	margin-left:210px;
+}
+#form{
+	width:260px;
+	margin:auto;
+	margin-bottom:10px;
+	margin-left:200;
+	margin-top:10px;
+	padding-top:20px;
+	BACKGROUND-COLOR:white;
+	border:solid 1px white;
+	font-size:15;
+	border-radius:6px;
+	
+}
